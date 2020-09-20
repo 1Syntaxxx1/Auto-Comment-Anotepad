@@ -3,7 +3,8 @@ This is a beta of the original auto comment program which I have in mind, which 
 This is a simple program that is able to comment on Anotepad website.
 
 Step 1:
-you will need to run: pip install requests
+
+pip install requests
 
 git clone https://github.com/1Syntaxxx1/Auto-Comment-Anotepad/
 
